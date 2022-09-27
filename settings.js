@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "NeKo-Botzz" //namabot kalian
+global.botname = "Aine-Md" //namabot kalian
 global.ownername= "Bang Fuad" //nama kalian
 global.myweb ="_" //bebas asal jan hapus
 global.youtube = "_" //bebas asal jan hapus
@@ -42,7 +42,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© NeKo-Botzz' //sticker wm ubah
+global.packname = '© Aine-Md' //sticker wm ubah
 global.author = 'Di Buat Oleh Bang Fuad' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
